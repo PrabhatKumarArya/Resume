@@ -18,6 +18,26 @@ const projects = [
     "MongoDB",
     "JWT",
     "CSS"
+  ],
+  id: 2,
+
+  title: "Credit Card Fraud Detection",
+
+  description:
+    "A machine learning web application that detects fraudulent credit card transactions using a trained classification model.",
+
+  image: "/projects/credit-card.png",
+
+  github: "https://github.com/PrabhatKumarArya/credit-card-fraud-detection",
+
+  demo: "https://credit-card-fraud-detection-kxbwph9zhvgycbginlyb96.streamlit.app/",
+
+  technologies: [
+    "Python",
+    "Streamlit",
+    "Scikit-learn",
+    "Pandas",
+    "NumPy"
   ]
   }
 ];
