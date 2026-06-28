@@ -18,8 +18,10 @@ const projects = [
     "MongoDB",
     "JWT",
     "CSS"
-  ],
-  id: 2,
+  ] 
+  },
+  {
+    id: 2,
 
   title: "Credit Card Fraud Detection",
 
