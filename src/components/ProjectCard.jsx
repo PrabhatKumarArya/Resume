@@ -20,7 +20,7 @@ export default function ProjectCard({ project }) {
       <div className="overflow-hidden">
 
         <img
-          src={web_pic}
+          src={project.img}
           alt={project.title}
           className="
           h-56

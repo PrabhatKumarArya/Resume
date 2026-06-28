@@ -5,7 +5,7 @@ const projects = [
   description:
     "A MERN stack application for managing daily activities with authentication, CRUD operations, and a clean dashboard.",
 
-  image: "/projects/activity.png",
+  image: "../projects/daily_activity_tracker.png",
 
   github: "https://github.com/PrabhatKumarArya/daily_activity_tracker",
 
