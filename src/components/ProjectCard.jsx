@@ -1,5 +1,4 @@
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
-import web_pic from "../assets/daily_activity_tracker.png"
 export default function ProjectCard({ project }) {
   return (
     <div
@@ -20,7 +19,7 @@ export default function ProjectCard({ project }) {
       <div className="overflow-hidden">
 
         <img
-          src={project.img}
+          src={project.image}
           alt={project.title}
           className="
           h-56

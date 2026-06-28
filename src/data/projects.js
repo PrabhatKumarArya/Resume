@@ -1,3 +1,6 @@
+import activity from "../assets/daily_activity_tracker.png";
+import credit from "../assets/credit-card.png";
+
 const projects = [
   {
     id: 1,
@@ -5,7 +8,7 @@ const projects = [
   description:
     "A MERN stack application for managing daily activities with authentication, CRUD operations, and a clean dashboard.",
 
-  image: "../projects/daily_activity_tracker.png",
+  image: activity,
 
   github: "https://github.com/PrabhatKumarArya/daily_activity_tracker",
 
@@ -28,7 +31,7 @@ const projects = [
   description:
     "A machine learning web application that detects fraudulent credit card transactions using a trained classification model.",
 
-  image: "/projects/credit-card.png",
+  image: credit,
 
   github: "https://github.com/PrabhatKumarArya/credit-card-fraud-detection",
 
